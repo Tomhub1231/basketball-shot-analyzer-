@@ -8,6 +8,9 @@ https://raw.githubusercontent.com/Tomhub1231/basketball-shot-analyzer-/main/QQ%E
 Python3.11 + opencv-python + mediapipe + numpy + pillow + matplotlib + tqdm
 
 ## 使用方法
+新手直接下载右边realease一键包shot.exe，解压运行，把自己的投篮视频放进INPUT文件夹。再运行一次就可以。
+
+如果可以自己搭建环境依赖，则直接下载shot.py运行即可。
 1. 下载 `shot.py` + `simhei.ttf` 放在同一文件夹
 2. 运行 `python shot.py`
 3. 自动生成 `input`、`output` 文件夹
