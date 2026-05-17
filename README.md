@@ -2,7 +2,6 @@
 自动识别髋、膝、肩、肘4个关节角度，精准检测投篮出手点，输出慢放视频、角度CSV、角度变化图表。
 
 ## 📸 使用效果展示
-<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/0a593af7-5260-4b6e-a4c0-15ffb2224a34" />
 
 
 ## 环境依赖
